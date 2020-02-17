@@ -1,3 +1,10 @@
+---
+title: "hm1"
+author: 'Jessie Bustin Github: jebustin'
+date: "1/15/2020"
+output: html_document
+---
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
